@@ -1,4 +1,4 @@
-# Graphics-Final-Project
+# Auto Soap Dispencer
 ## Description:
 AutoSoap Dispenser is the project that we decided to do. 
 The idea behind this project is to protect ourselves during the time of quarantine.
@@ -13,7 +13,7 @@ The whole project, including the Firmware (Adruino code) and other files is uplo
 ##Thingiverse 3D design:
 https://www.thingiverse.com/thing:4361113
 
-![Circuit image](Images of SCAD, STL, and Firmware/Circuit image.jpg)
+<img src="Circuit image.jpg">
 
 
 # Parts list
