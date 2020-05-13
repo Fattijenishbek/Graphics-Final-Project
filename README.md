@@ -31,4 +31,5 @@ https://www.thingiverse.com/thing:4361113
 * Main pipe (The pipe, which contains all the electronics of this project and the soap itself).
 * Base and Top (The parts, which are used to protect the insides of the soap dispenser).
 * Small pipes/holes (The part from where the soap leaks, and the part which looks for the stimuli - PIR sensor).
+
 More details are in the assembly file.
