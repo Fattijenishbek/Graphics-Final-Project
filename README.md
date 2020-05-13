@@ -13,7 +13,7 @@ The whole project, including the Firmware (Adruino code) and other files is uplo
 ##Thingiverse 3D design:
 https://www.thingiverse.com/thing:4361113
 
-<img src="Circuit%20image.jpg">
+<img src="Images%20of%20SCAD%2C%20STL%2C%20and%20Firmware/Circuit%20image.jpg">
 
 
 # Parts list
