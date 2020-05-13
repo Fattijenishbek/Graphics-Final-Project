@@ -1,0 +1,20 @@
+This file is created to explain in details what and why we are using in the 3D design.
+
+The .jpg files located in this folder are directly associated with this file.
+
+Side part details:
+
+As can be seen on the screenshot of the Side part, there are two holes.
+The first one is needed to leak soap. A pipe is connected to the Micro Servo via wires, which triggers the action.
+The second one is where the IR sensor located. Upon movement or heat, the sensor will send signal to the Micro Servo.
+The Micro servo then moves the actual soap dispenser.
+
+Bottom part details:
+
+As it is shown on the screenshot of bottom part, there are three holes.
+Each of them hold a different function. Particularly, the holes #3 and #4 are needed to hold wires and ropes to trigger the Micro Servo.
+The hole #5 is where the whole firmware will be stored. Adruino R3, and Micro Servo.
+
+Top Part details:
+
+There is an edge, side #6. It's needed to hold the IR sensor and allow the detection of movement/heat near the soap dispenser.
