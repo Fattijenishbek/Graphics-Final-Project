@@ -4,6 +4,9 @@ AutoSoap Dispenser is the project that we decided to do.
 The idea behind this project is to protect ourselves during the time of quarantine.
 The whole project, including the Firmware (Adruino code) and other files is uploaded to the respective folders of this repository.
 
+### Assembly file
+There's an assembly folder, which contains .txt file with assembly explanation. Also, there are detailed pictures complete pictures to in the same folder for more comprehensive experience.
+
 ### Team (authors)
 * Natalia Klimareva
 * Fatima Bekmamatova
