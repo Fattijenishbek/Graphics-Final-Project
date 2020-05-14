@@ -13,7 +13,7 @@ The whole project, including the Firmware (Adruino code) and other files is uplo
 ### Thingiverse 3D design:
 https://www.thingiverse.com/thing:4361113
 
-<img src="Images%20of%20SCAD%2C%20STL%2C%20and%20Firmware/Small%20parts%20in%20Cura%20slicer%20Top-side.jpg">
+<img src="Assembly/Complete%20Autosoap%20images/Assembled%20Autosoap%20top.jpg">
 <img src="Images%20of%20SCAD%2C%20STL%2C%20and%20Firmware/Main%20part%20in%20Cura%20slicer%20top.jpg">
 <img src="Images%20of%20SCAD%2C%20STL%2C%20and%20Firmware/The%20whole%20hardware%20in%20Cura%20slicer.png">
 <img src="Images%20of%20SCAD%2C%20STL%2C%20and%20Firmware/Circuit%20image.jpg">
