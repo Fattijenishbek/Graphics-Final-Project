@@ -12,9 +12,14 @@ The Micro servo then moves the actual soap dispenser.
 Bottom part details:
 
 As it is shown on the screenshot of bottom part, there are three holes.
-Each of them hold a different function. Particularly, the holes #3 and #4 are needed to hold wires and ropes to trigger the Micro Servo.
-The hole #5 is where the whole firmware will be stored. Adruino R3, and Micro Servo.
+Each of them hold a different function. Particularly, the hole #3 is for the sensor wire,
+while the hole #4 is needed to hold ropes to trigger the Micro Servo and thus, soap pump.
+The hole #5 is where the whole firmware will be stored (Adruino R3, and Micro Servo). It's under the soap stand, so that it is not visible to others.
 
 Top Part details:
 
-There is an edge, side #6. It's needed to hold the IR sensor and allow the detection of movement/heat near the soap dispenser.
+There is an edge, side #6. It's needed to hold the IR sensor/keep stability and allow the detection of movement/heat near the soap dispenser.
+
+
+The completed assembly of the 3D design may be found in another folder called "Complete Autosoap images".
+It will take approximately 288g of plastic and 13 hours 56 minutes to print the whole thing.
